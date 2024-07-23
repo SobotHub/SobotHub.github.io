@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Ke Wu, an assistant professor in Robotics and Applied Mathematics
+Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">Robotics Department</a>
 
 
 
