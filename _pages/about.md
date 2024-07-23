@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. My research mainly focuses on design, modeling, optimization and control of shape-shifting robotic systems, such as soft robots, continuum robots, compliant mechanisms and so on. Meanwhile, I am more interested in the mathematical essence behind the above mentioned research topics:
+Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. My research mainly focuses on design, modeling, optimization and control of shape-shifting robotic systems, such as soft robots, continuum robots, compliant mechanisms and so on. Specifically, I am interested in the mathematical essence behind the above mentioned research topics:
 
-- Differential and algerbraic equations for modeling robotic systems.
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- Differential and algerbraic equations for modeling shape-shifting robotic systems in complex multi-physics scenarios.
+  - How to derive the model through differential and algerbraic equations?
+  - How to reduce the complexity of the model?
+  - How to solve the model in a more efficient way?
+- Modern optimization strategies for designing and optimizing shape-shifting robotic systems.
+  - How to transform structure design problems into optimiztion problems?
+  - How to maximize the benifits of human intuitives and bio-insipration in this design process?
+- Controller design for manipulating shape-shifting robotic systems.
 
 
 A data-driven personal website
