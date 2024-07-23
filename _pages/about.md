@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. Building on classical robotics, my research primarily explores the fundamentals of deformable robotic systems, including soft robots, continuum robots, and compliant mechanisms. My work focuses on their design, modeling, structure optimization, and control. Specifically, I am interested in the mathematical principles underlying these research areas:
+Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. Building on classical robotics, my research primarily explores the fundamentals of deformable robotic systems (soft robots, continuum robots, compliant mechanisms and more), including their design, modeling, structure optimization, and control. Specifically, I am interested in the mathematical principles underlying these research areas:
 
 - Differential and algerbraic equations for modeling deformable robotic systems in complex multi-physics scenarios.
   - How to derive the model using differential and algerbraic equations?
