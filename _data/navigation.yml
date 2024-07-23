@@ -5,7 +5,7 @@ main:
     url:  /Education/
 
   - title: "Research"
-    url: "/#about-me" 
+    url: /files/Researchstatemenrt2.pdf 
     # url: /files/Researchstatemenrt2.pdf 
 
   - title: "Publications"
