@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. My research mainly focuses on design, modeling, optimization and control of shape-shifting robotic systems, such as soft robots, continuum robots, compliant mechanisms and so on. Specifically, I am interested in the mathematical essence behind the above mentioned research topics:
+Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. Building on classical robotics, my research primarily explores the fundamentals of shape-shifting robotic systems, including soft robots, continuum robots, and compliant mechanisms. My work focuses on their design, modeling, structure optimization, and control. Specifically, I am interested in the mathematical principles underlying these research areas:
 
 - Differential and algerbraic equations for modeling shape-shifting robotic systems in complex multi-physics scenarios.
-  - How to derive the model through differential and algerbraic equations?
+  - How to derive the model using differential and algerbraic equations?
   - How to reduce the complexity of the model?
   - How to solve the model in a more efficient way?
 - Modern optimization strategies for designing and optimizing shape-shifting robotic systems.
   - How to transform structure design problems into optimiztion problems?
-  - How to maximize the benifits of human intuitives and bio-insipration in this design process?
+  - How to maximize the benefits of human intuitives and bio-insipration in this design process?
 - Controller design for manipulating shape-shifting robotic systems.
+  - How to develop real-time model-based controllers?
+  - How to develop model-free controllers?
+
 
 
 A data-driven personal website
