@@ -16,7 +16,7 @@ redirect_from:
   * Lab: UCD Rehabilitation Engineering and Robotics Lab
   * Supervisor: <a href="https://scholar.google.com/citations?user=nw2UkdcAAAAJ&hl=en">Donal Holland</a>
 * M.E. in Mechanical Engineering, Chongqing University, 2019
-  * Lab: <a href="https://sites.google.com/site/doctorghao/members">Compliant Mechanisms And Robotics (CoMAR) Group at University College Cord</a>
+  * Lab: <a href="https://sites.google.com/site/doctorghao/members">Compliant Mechanisms And Robotics (CoMAR) Group at University College Cork</a>
   * Supervisor: <a href="https://scholar.google.com/citations?user=ZhNhhEsAAAAJ&hl=en">Guangbo Hao</a>
 * B.E. in Mechanical Design, Manufacturing, and Automation, <a href="https://english.cqu.edu.cn/">Chongqing University</a>, 2016
 
