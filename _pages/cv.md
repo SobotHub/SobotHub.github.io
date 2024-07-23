@@ -20,7 +20,16 @@ redirect_from:
   * Supervisor: <a href="https://scholar.google.com/citations?user=ZhNhhEsAAAAJ&hl=en">Guangbo Hao</a>
 * B.E. in Mechanical Design, Manufacturing, and Automation, <a href="https://english.cqu.edu.cn/">Chongqing University</a>, 2016
 
-As a Master's student, I started my research journey on the research topic of Pneumatic Artificial Muscles (PAMs) for Rehabilitation under the supervision of Dr. Donal Holland who is the founder of the famous <a href="https://softroboticstoolkit.com/">Soft Robotics Toolkit</a> at Harvard. In the meanwhile, along with Dr. Hao, I worked on my second Master's project (Nano compliante positioning stages) in CoMAR group at UCC. Then, in 2019, I joined DEFROST at INRIA as a PhD candidate, switched to work on the theoretical studies on deformable robotic systems, including design, modeling and control of soft robots, continuun robots, compliant mechanisms and so on.
+As a Master's student, I began my research journey on Pneumatic Artificial Muscles (PAMs) for Rehabilitation under the supervision of Dr. Donal Holland, founder of the renowned <a href="https://softroboticstoolkit.com/">Soft Robotics Toolkit</a> at Harvard. Concurrently, I collaborated with Dr. Hao on my second Master's project, focusing on nano-compliant positioning stages within the CoMAR group at UCC. In 2019, I joined DEFROST at INRIA as a PhD candidate, where I shifted my focus to theoretical studies on deformable robotic systems, including the design, modeling, and control of soft robots, continuum robots, compliant mechanisms, and more.
+
+DISSERTATION
+=
+* Title: "Design, Modeling, Optimization and Control of Compliant Mechanisms"
+* Supervisor: Gang Zheng
+* Jury members: <a href="https://ieeexplore.ieee.org/author/37348112600">Frederic BOYER</a>, <a href="https://nms.kcl.ac.uk/jian.dai/">Jian S Dai</a>, <a href="https://gjlaurent.github.io/">Guillaume J. Laurent</a>, <a href="https://elan.inrialpes.fr/people/bertails/">Florence Bertails-Descoubes</a>, Gang Zheng.
+  
+
+
 
 
 
