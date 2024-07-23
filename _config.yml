@@ -21,7 +21,7 @@ repository               : "SobotHub/SobotHub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "KeWu.jpg"
   name             : "Ke Wu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
