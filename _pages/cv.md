@@ -8,14 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-
-* Ph.D in Robotics, National Institute for Research in Computer Science and Automation, Lille, France, 2023
-  * Lab: DEFROST
-  * Lab head: DEFROST
-  * Supervisor: Gang Zheng
-* M.E. in Mechanical Engineering, University College Dublin, 2019
+* Ph.D in Robotics, <a href="https://www.inria.fr/en">National Institute for Research in Computer Science and Automation</a>, Lille, France, 2023
+  * Lab: <a href="https://www.defrost.inria.fr">DEFROST</a>
+  * Lab head: <a href="https://scholar.google.fr/citations?user=sAA2koIAAAAJ&hl=fr">Christian Duirez</a>
+  * Supervisor: <a href="http://researchers.lille.inria.fr/~gzheng/research.html">Gang Zheng</a>
+* M.E. in Mechanical Engineering, <a href="https://www.ucd.ie/">University College Dublin</a>, 2019
+  * Lab: UCD Rehabilitation Engineering and Robotics Lab
+  * Supervisor: <a href="https://scholar.google.com/citations?user=nw2UkdcAAAAJ&hl=en">Donal Holland</a>
 * M.E. in Mechanical Engineering, Chongqing University, 2019
-* B.E. in Mechanical Design, Manufacturing, and Automation, Chongqing University, 2016
-
-
+  * Lab: <a href="https://sites.google.com/site/doctorghao/members">Compliant Mechanisms And Robotics (CoMAR) Group</a>
+  * Supervisor: <a href="https://scholar.google.com/citations?user=ZhNhhEsAAAAJ&hl=en">Guangbo Hao</a>
+* B.E. in Mechanical Design, Manufacturing, and Automation, <a href="https://english.cqu.edu.cn/">Chongqing University</a>, 2016
 
