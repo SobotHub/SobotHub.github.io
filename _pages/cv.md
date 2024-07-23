@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education1
 ======
 * Ph.D in Version Control Theory, GitHub University, 2023 (expected)
 * M.S. in Jekyll, GitHub University, 2014
