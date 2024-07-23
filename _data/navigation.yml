@@ -1,14 +1,16 @@
 # main links links
 main:
 
-  - title: "About Me"
-    url: "/#about-me"
-    
-  - title: "CV"
+  - title: "Education"
     url: /cv/
-    
-  - title: "Publications"
+
+  - title: "Research"
+    url: "/#about-me" 
+
+  - title: "Selected Publications"
     url: /publications/
+
+
 
  # - title: "Talks"
  #   url: /talks/    
