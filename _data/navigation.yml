@@ -5,8 +5,8 @@ main:
     url:  /Education/
 
   - title: "Research"
-    # url: /files/Researchstatemenrt2.pdf 
-    url: "https://sobothub.github.io/files/Researchstatemenrt2.pdf"
+    url: /files/Researchstatemenrt2.pdf 
+    # url: "https://sobothub.github.io/files/Researchstatemenrt2.pdf"
 
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=UOd1SfAAAAAJ&hl=en&oi=sra"
