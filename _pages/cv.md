@@ -26,7 +26,7 @@ DISSERTATION
 =
 * Title: "Design, Modeling, Optimization and Control of Compliant Mechanisms"
 * Supervisor: Gang Zheng
-* Jury members: <a href="https://ieeexplore.ieee.org/author/37348112600">Frederic BOYER</a>, <a href="https://nms.kcl.ac.uk/jian.dai/">Jian S Dai</a>, <a href="https://gjlaurent.github.io/">Guillaume J. Laurent</a>, <a href="https://elan.inrialpes.fr/people/bertails/">Florence Bertails-Descoubes</a>, Gang Zheng.
+* Jury members: <a href="https://ieeexplore.ieee.org/author/37348112600">Frederic BOYER</a>, <a href="https://nms.kcl.ac.uk/jian.dai/">Jian S Dai</a>, <a href="https://www4.mae.cuhk.edu.hk/peoples/zhang-li/">Li Zhang</a>, <a href="https://gjlaurent.github.io/">Guillaume J. Laurent</a>, <a href="https://elan.inrialpes.fr/people/bertails/">Florence Bertails-Descoubes</a>, Gang Zheng.
   
 
 
