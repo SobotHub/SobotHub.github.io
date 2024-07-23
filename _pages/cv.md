@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Education"
 permalink: /Education/
 author_profile: true
 redirect_from:
@@ -9,8 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education1
-======
+
 * Ph.D in Version Control Theory, GitHub University, 2023 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
