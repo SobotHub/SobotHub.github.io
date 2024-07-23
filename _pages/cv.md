@@ -9,24 +9,13 @@ redirect_from:
 {% include base_path %}
 
 
-* Ph.D in Version Control Theory, GitHub University, 2023
-  * s
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics, National Institute for Research in Computer Science and Automation, Lille, France, 2023
+  * Lab: DEFROST
+  * Lab head: DEFROST
+  * Supervisor: Gang Zheng
+* M.E. in Mechanical Engineering, University College Dublin, 2019
+* M.E. in Mechanical Engineering, Chongqing University, 2019
+* B.E. in Mechanical Design, Manufacturing, and Automation, Chongqing University, 2016
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
