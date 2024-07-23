@@ -21,13 +21,13 @@ repository               : "SobotHub/SobotHub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KeWu.jpg"
+  avatar           : "KeWu2.jpg"
   name             : "Ke Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Focusing on the Mathematical Essence of Shape-Shifting Robots"
   location         : "China"
   employer         : "MBZUAI"
-  uri              : # URL
+  #uri              : # URL
   email            : "kewuforwork@gmail.com" 
 
   # Academic websites
