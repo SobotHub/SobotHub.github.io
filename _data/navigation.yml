@@ -8,7 +8,7 @@ main:
     url: "/#about-me" 
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=UOd1SfAAAAAJ&hl=en&oi=sra
 
 
 
