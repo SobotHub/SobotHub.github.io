@@ -20,8 +20,8 @@ Hey, I am Ke Wu, an assistant professor in Robotics Department at <a href="https
   - How to develop real-time model-based controllers?
   - How to develop model-free controllers?
 
+In addition to being driven by research interests, my work is primarily aimed at addressing cutting-edge industry needs. The goal is to translate academic findings into practical applications that ultimately benefit and positively impact society.
 
-
-Title
-======
+#Title
+#======
 
