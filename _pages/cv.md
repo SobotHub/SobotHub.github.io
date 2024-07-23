@@ -10,7 +10,7 @@ redirect_from:
 
 
 * Ph.D in Version Control Theory, GitHub University, 2023
-  *s
+  * s
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
