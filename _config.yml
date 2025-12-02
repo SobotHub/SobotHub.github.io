@@ -24,13 +24,13 @@ repository               : "https://github.com/SobotHub/SobotHub.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ke Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics Researcher"
+  location         : "UAE"
+  employer         : "MBZUAI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kewuforwork@gmail.com" 
 
   # Academic websites
   academia         : # URL
