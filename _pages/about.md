@@ -39,7 +39,7 @@ Kevin Henry, Salamah Almazrouei, Haobo Yang, Amal Saqib
 **Visiting Researchers:**  
 Ashenafi Abrham Kassa, Fangju Yang, Qidi Sun, Tongshun Chen, Yuhao Wang  
 
-Our lab welcomes students who are excited about **soft robotics**, **continuum mechanics**, **robot learning**, and **multi-physics simulation**—from fundamental theory to real-world experimental systems.
+Our lab welcomes students who are excited about **soft robotics**, **continuum mechanics**, **robot learning**, and **multi-physics simulation** from fundamental theory to real-world experimental systems.
 
 
 ---
