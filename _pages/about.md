@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ke Wu – Visiting Assistant Professor of Robotics"
+title: "Ke Wu – Assistant Professor of Robotics"
 author_profile: true
 redirect_from: 
   - /about/
