@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I am a **Visiting Assistant Professor of Robotics at MBZUAI**. I received my **Ph.D. in Robotics from INRIA (Lille, France)** with the DEFROST team, supervised by *Dr. Gang Zheng*, where I worked on the theoretical foundations of **bio-inspired, continuum, and soft robots**. Prior to that. During my master’s research, I worked under the supervision of *Dr. Donal Holland* founder of the Soft Robotics Toolkit at Harvard focusing on pneumatic artificial muscles for rehabilitation.
+Hi! 👋 I am a **Assistant Professor of Robotics at MBZUAI**. I received my **Ph.D. in Robotics from INRIA (Lille, France)** with the DEFROST team, supervised by *Dr. Gang Zheng*, where I worked on the theoretical foundations of **bio-inspired, continuum, and soft robots**. Prior to that. During my master’s research, I worked under the supervision of *Dr. Donal Holland* founder of the Soft Robotics Toolkit at Harvard focusing on pneumatic artificial muscles for rehabilitation.
 
 My research centers on **bio-inspired and soft robotic systems**, which are inherently underactuated, highly redundant, and governed by complex, history-dependent multi-physics dynamics. Methodologically, I combine **physics-based modeling** with **data-driven robot learning**, with particular emphasis on:  
 - ⚙️ *Lightweight physics-informed imitation learning*  
