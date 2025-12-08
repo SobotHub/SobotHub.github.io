@@ -22,10 +22,32 @@ I have published in leading robotics journals and conferences, including *IEEE T
 
 ---
 
+### 🧪 *Ke Wu’s Lab at MBZUAI*
+
+My group focuses on advancing **bio-inspired robotics**, **soft–rigid hybrid systems**, **continuum robot intelligence**, and **physics-informed robot learning**. We aim to unify *mechanical intelligence* with *artificial intelligence* to enable robust, adaptive robotic behavior in complex real-world environments.
+
+I am fortunate to supervise an outstanding group of researchers at MBZUAI.  
+To date, I have supervised **17 researchers**, including PhD students, Master's students, and visiting researchers.
+
+**PhD Students:**  
+Hang Yang, Zhenye Luo, Yangming Zhang  
+
+**Master’s Students:**  
+Ibrahim Alsarraj, Nakul Vijay Nibe, Ramy Kachwaa, Marwah Suhai, Merium Fazal Abbasi,  
+Kevin Henry, Salamah Almazrouei, Haobo Yang, Amal Saqib  
+
+**Visiting Researchers:**  
+Ashenafi Abrham Kassa, Fangju Yang, Qidi Sun, Tongshun Chen, Yuhao Wang  
+
+Our lab welcomes students who are excited about **soft robotics**, **continuum mechanics**, **robot learning**, and **multi-physics simulation**—from fundamental theory to real-world experimental systems.
+
+
+---
+
 ### 🔍 *Opportunities*
 
 <span style="color:#c00000; font-weight:bold;">
-I am actively looking for highly motivated PhD students, Master’s students, and research interns. All stipends are tax-free.
+I am actively looking for highly motivated PhD students, Master’s students, and research interns.
 </span>
 
 If you are interested in working with me on **soft robotics**, **continuum systems**, **physics-informed robot learning**, or **multi-physics simulation**, please feel free to contact me at **Ke.Wu@mbzuai.ac.ae**.
