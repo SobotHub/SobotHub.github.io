@@ -23,7 +23,7 @@ I have published **nearly 40 papers** in leading robotics journals and conferenc
 ---
 
 ### 🔍 *Opportunities*
-I am actively looking for **highly motivated PhD students, Master’s students, and research interns**. All stipends are *tax-free*. If you are interested in working with me on **soft robotics**, **continuum systems**, **physics-informed robot learning**, or **multi-physics simulation**, please feel free to contact me at **YOUR_EMAIL@mbzuai.ac.ae**.
+I am actively looking for **highly motivated PhD students, Master’s students, and research interns**. All stipends are *tax-free*. If you are interested in working with me on **soft robotics**, **continuum systems**, **physics-informed robot learning**, or **multi-physics simulation**, please feel free to contact me at **Ke.Wu@mbzuai.ac.ae**.
 
 Here are some suggestions for preparing your email:
 
