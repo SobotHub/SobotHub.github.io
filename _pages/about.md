@@ -16,9 +16,9 @@ My research centers on **bio-inspired and soft robotic systems**, which are inhe
 
 My goal is to integrate **artificial intelligence** with the **mechanical intelligence** embodied in soft and continuum robots, enabling robust control, perception, and planning in uncertain and unstructured environments.
 
-I develop hybrid soft–rigid robotic systems, physics-formed expert demonstrations, diffusion-based learning from demonstrations, and training-friendly multi-physics simulation frameworks that model **continuum dynamics**, **frictional and magnetic fields**, **fluid–structure interactions**, and **actuator–robot coupling**. Ultimately, my work aims to unify *physics-based* and *data-driven* approaches to advance robotic autonomy and enable transformative real-world applications.
+I develop soft robotic systems, physics-formed expert demonstrations, diffusion-based learning from demonstrations, and training-friendly multi-physics simulation frameworks that model **continuum dynamics**, **frictional and magnetic fields**, **fluid–structure interactions**, and **actuator–robot coupling**. Ultimately, my work aims to unify *physics-based* and *data-driven* approaches to advance robotic autonomy and enable transformative real-world applications.
 
-I have published **nearly 40 papers** in leading robotics journals and conferences, including *IEEE T-Mech, RA-L, SMC-S, Soft Robotics, JMR, RAS, MMT, IJMS, IROS,* and *RoboSoft*. I also serve as an **Associate Editor for soft robotics at ICRA 2025 and ICRA 2026**.
+I have published in leading robotics journals and conferences, including *IEEE T-Mech, RA-L, SMC-S, Soft Robotics, JMR, RAS, MMT, IJMS, IROS,* and *RoboSoft*. I also serve as an **Associate Editor for soft robotics at ICRA 2025 and ICRA 2026**.
 
 ---
 
