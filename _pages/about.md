@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I am a **Visiting Assistant Professor of Robotics at [MBZUAI](https://mbzuai.ac.ae/)**. I received my **Ph.D. in Robotics at [INRIA](https://www.inria.fr/en)** with the DEFROST team, supervised by *Dr. Gang Zheng*, where I worked on the theoretical foundations of **bio-inspired, continuum, and soft robots**. Prior to that, I completed my **master’s studies at [Harvard University](https://www.harvard.edu/)** under *Dr. Donal Holland*, founder of the Soft Robotics Toolkit, focusing on pneumatic artificial muscles for rehabilitation.
+Hi! 👋 I am a **Visiting Assistant Professor of Robotics at MBZUAI**. I received my **Ph.D. in Robotics at INRIA** with the DEFROST team, supervised by *Dr. Gang Zheng*, where I worked on the theoretical foundations of **bio-inspired, continuum, and soft robots**. Prior to that, I completed my **master’s studies at Harvard University** under *Dr. Donal Holland*, founder of the Soft Robotics Toolkit, focusing on pneumatic artificial muscles for rehabilitation.
 
 My research centers on **bio-inspired and soft robotic systems**, which are inherently underactuated, highly redundant, and governed by complex, history-dependent multi-physics dynamics. Methodologically, I combine **physics-based modeling** with **data-driven robot learning**, with particular emphasis on:  
 - ⚙️ *lightweight physics-informed imitation learning*  
@@ -26,7 +26,7 @@ I have published **nearly 40 papers** in leading robotics journals and conferenc
 
 <span style="color:#c00000; font-weight:bold;">
 I am actively looking for highly motivated PhD students, Master’s students, and research interns. All stipends are tax-free.
-</span>  
+</span>
 
 If you are interested in working with me on **soft robotics**, **continuum systems**, **physics-informed robot learning**, or **multi-physics simulation**, please feel free to contact me at **Ke.Wu@mbzuai.ac.ae**.
 
